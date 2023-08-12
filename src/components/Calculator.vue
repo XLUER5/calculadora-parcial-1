@@ -2,24 +2,6 @@
   <section class="section">
     <section class="calculator-principal">
       <div class="card">
-        <!-- <div class="card-header text-center">
-          <ul class="nav" data-bs-tabs="tabs">
-            <li class="nav-item">
-              <a
-                class="nav-link active"
-                aria-current="true"
-                data-bs-toggle="tab"
-                href="#dhcp"
-                >Calculadora</a
-              >
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" data-bs-toggle="tab" href="#static"
-                >Convertidor</a
-              >
-            </li>
-          </ul>
-        </div> -->
         <form class="card-body tab-content" id="form">
           <div class="tab-pane active" id="dhcp">
             <div class="calculadora">
